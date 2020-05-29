@@ -1,0 +1,17 @@
+## China
+#### Tsinghua University (Source)
+#Server = https://mirrors.tuna.tsinghua.edu.cn/arch4edu/$arch
+#### Beijing Foreign Studies University
+#Server = https://mirrors.bfsu.edu.cn/arch4edu
+#### Nanjing University
+#Server = https://mirrors.nju.edu.cn/arch4edu/$arch
+#### Ping An Cloud
+#Server = https://mirrors.tencent.com/arch4edu/$arch
+#### Tencent
+#Server = https://mirrors.pinganyun.com/arch4edu/$arch
+#### Yunnan University
+#Server = https://mirrors.ynuosa.org/arch4edu/$arch
+
+## United States
+#### Keybase
+#Server = https://arch4edu.keybase.pub/$arch
