@@ -2,7 +2,7 @@
 #### Tsinghua University (Source)
 #Server = https://mirrors.tuna.tsinghua.edu.cn/arch4edu/$arch
 #### Beijing Foreign Studies University
-#Server = https://mirrors.bfsu.edu.cn/arch4edu
+#Server = https://mirrors.bfsu.edu.cn/arch4edu/$arch
 #### Nanjing University
 #Server = https://mirrors.nju.edu.cn/arch4edu/$arch
 #### Ping An Cloud
