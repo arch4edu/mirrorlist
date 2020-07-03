@@ -1,6 +1,8 @@
 ## China
 #### Tsinghua University (Source)
 #Server = https://mirrors.tuna.tsinghua.edu.cn/arch4edu/$arch
+#### Aliyun
+#Server = https://mirrors.aliyun.com/arch4edu/$arch
 #### Beijing Foreign Studies University
 #Server = https://mirrors.bfsu.edu.cn/arch4edu/$arch
 #### Nanjing University
