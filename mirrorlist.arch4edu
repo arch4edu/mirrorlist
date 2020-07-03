@@ -8,9 +8,9 @@
 #### Nanjing University
 #Server = https://mirrors.nju.edu.cn/arch4edu/$arch
 #### Ping An Cloud
-#Server = https://mirrors.tencent.com/arch4edu/$arch
-#### Tencent
 #Server = https://mirrors.pinganyun.com/arch4edu/$arch
+#### Tencent
+#Server = https://mirrors.tencent.com/arch4edu/$arch
 #### Yunnan University
 #Server = https://mirrors.ynuosa.org/arch4edu/$arch
 
