@@ -12,7 +12,7 @@
 #### Tencent
 #Server = https://mirrors.tencent.com/arch4edu/$arch
 #### Yunnan University
-#Server = https://mirrors.ynuosa.org/arch4edu/$arch
+#Server = https://mirrors.ynu.edu.cn/arch4edu/$arch
 
 ## United States
 #### Keybase
