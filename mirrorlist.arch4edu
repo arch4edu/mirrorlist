@@ -14,6 +14,10 @@
 #### Yunnan University
 #Server = https://mirrors.ynu.edu.cn/arch4edu/$arch
 
+## French
+#### By Antoine Viallon
+#Server = https://mirror.lesviallon.fr/arch4edu/$arch
+
 ## United States
 #### Keybase
 #Server = https://arch4edu.keybase.pub/$arch
