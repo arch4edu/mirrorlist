@@ -18,6 +18,12 @@
 #### By Antoine Viallon
 #Server = https://mirror.lesviallon.fr/arch4edu/$arch
 
+## Germany
+#### By Felix Kopp
+#Server = https://arch4edu.mirror.kescher.at
+#### By Jeremy Kescher
+#Server = https://mirror.autisten.club/arch4edu
+
 ## United States
 #### Keybase
 #Server = https://arch4edu.keybase.pub/$arch
