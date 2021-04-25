@@ -20,9 +20,9 @@
 
 ## Germany
 #### By Felix Kopp
-#Server = https://mirror.autisten.club/arch4edu
+#Server = https://mirror.autisten.club/arch4edu/$arch
 #### By Jeremy Kescher
-#Server = https://arch4edu.mirror.kescher.at
+#Server = https://arch4edu.mirror.kescher.at/$arch
 
 ## United States
 #### Keybase
