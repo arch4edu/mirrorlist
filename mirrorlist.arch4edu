@@ -14,7 +14,11 @@
 #### Yunnan University
 #Server = https://mirrors.ynu.edu.cn/arch4edu/$arch
 
-## French
+## Austria
+#### By Jeremy Kescher
+#Server = https://at.arch4edu.mirror.kescher.at/$arch
+
+## France
 #### By Antoine Viallon
 #Server = https://mirror.lesviallon.fr/arch4edu/$arch
 
@@ -22,7 +26,7 @@
 #### By Fef
 #Server = https://pkg.fef.moe/arch4edu/$arch
 #### By Jeremy Kescher
-#Server = https://arch4edu.mirror.kescher.at/$arch
+#Server = https://de.arch4edu.mirror.kescher.at/$arch
 
 ## United States
 #### Keybase
