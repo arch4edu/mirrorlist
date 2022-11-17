@@ -14,7 +14,7 @@
 #### Shenyang Aerospace University
 #Server = https://mirrors.sau.edu.cn/arch4edu/$arch
 #### Tencent
-#Server = https://mirrors.tencent.com/arch4edu/$arch
+##Server = https://mirrors.tencent.com/arch4edu/$arch
 #### Yunnan University
 #Server = https://mirrors.ynu.edu.cn/arch4edu/$arch
 
