@@ -31,6 +31,8 @@
 #Server = https://pkg.fef.moe/arch4edu/$arch
 #### By Jeremy Kescher
 #Server = https://de.arch4edu.mirror.kescher.at/$arch
+#### By Manuel Hüsers
+#Server = https://mirror.sunred.org/arch4edu/$arch
 
 ## United States
 #### Keybase
