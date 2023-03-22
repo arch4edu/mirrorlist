@@ -33,7 +33,3 @@
 #Server = https://de.arch4edu.mirror.kescher.at/$arch
 #### By Manuel Hüsers
 #Server = https://mirror.sunred.org/arch4edu/$arch
-
-## United States
-#### Keybase
-##Server = https://arch4edu.keybase.pub/$arch
