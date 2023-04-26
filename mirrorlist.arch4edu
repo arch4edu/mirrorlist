@@ -1,3 +1,6 @@
+## Global
+Server = https://repository.arch4edu.org/$arch
+
 ## China
 #### Tsinghua University (Source)
 #Server = https://mirrors.tuna.tsinghua.edu.cn/arch4edu/$arch
