@@ -12,12 +12,12 @@ Server = https://repository.arch4edu.org/$arch
 #Server = https://mirror.iscas.ac.cn/arch4edu/$arch
 #### Nanjing University
 #Server = https://mirrors.nju.edu.cn/arch4edu/$arch
+#### Nanyang Institute of Technology
+#Server = https://mirror.nyist.edu.cn/arch4edu/$arch
 #### Shenyang Aerospace University
 #Server = https://mirrors.sau.edu.cn/arch4edu/$arch
 #### Tencent
 ##Server = https://mirrors.tencent.com/arch4edu/$arch
-#### Yunnan University
-#Server = https://mirrors.ynu.edu.cn/arch4edu/$arch
 
 ## Austria
 #### By Jeremy Kescher
