@@ -8,6 +8,8 @@ Server = https://repository.arch4edu.org/$arch
 #Server = https://mirrors.aliyun.com/arch4edu/$arch
 #### Beijing Foreign Studies University
 #Server = https://mirrors.bfsu.edu.cn/arch4edu/$arch
+#### CERNET (ipv4, ipv6, http, https)
+#Server = https://mirrors.cernet.edu.cn/arch4edu/$arch
 #### Institute of Software, Chinese Academy of Sciences
 #Server = https://mirror.iscas.ac.cn/arch4edu/$arch
 #### Nanjing University
