@@ -2,6 +2,8 @@
 Server = https://repository.arch4edu.org/$arch
 
 ## China
+#### CERNET (中国) (ipv4, ipv6, http, https)
+#Server = https://mirrors.cernet.edu.cn/arch4edu/$arch
 #### Tsinghua University (Source)
 #Server = https://mirrors.tuna.tsinghua.edu.cn/arch4edu/$arch
 #### Aliyun
