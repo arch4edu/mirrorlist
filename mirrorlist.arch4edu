@@ -36,3 +36,5 @@ Server = https://repository.arch4edu.org/$arch
 #Server = https://de.arch4edu.mirror.kescher.at/$arch
 #### By Manuel Hüsers
 #Server = https://mirror.sunred.org/arch4edu/$arch
+#### By shtrophic
+#Server = https://arch4edu.shtrophic.net/$arch
