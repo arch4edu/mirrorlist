@@ -1,5 +1,6 @@
 ## Global
 Server = https://repository.arch4edu.org/$arch
+Server = https://mirrors.cicku.me/arch4edu/$arch
 
 ## China
 #### Tsinghua University (Source)
